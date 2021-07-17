@@ -1,4 +1,4 @@
-# Streaming processing of cosmic rays
+# Streaming processing of cosmic rays' signal
 The aim of this project was to build a dashboard for the live monitoring of Drift Tube Detectors in a distributed fashion.
 
 To this end, we were given 5 virtual machines hosted in the Cloud Veneto infrastructure in order to build a small cluster.</br>
