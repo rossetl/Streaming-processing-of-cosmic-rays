@@ -6,3 +6,7 @@ Data are extracted from an S3 bucket by the `Producer` notebook and injected ins
 
 
 All the details about the cluster and the processing can be found in the `Spark-cluster` notebook.
+
+<p align="center">
+<img src="https://github.com/rossetl/Streaming-processing-of-cosmic-rays/blob/main/images/preview.png" alt="schema" width="600"/>
+</p>
